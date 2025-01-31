@@ -1,0 +1,5 @@
+C:\Users\ShatunovNA\Documents\tray2.exe
+C:\Users\ShatunovNA\Documents\tray2.dll
+C:\Users\ShatunovNA\Documents\tray2.deps.json
+C:\Users\ShatunovNA\Documents\tray2.runtimeconfig.json
+C:\Users\ShatunovNA\Documents\tray2.pdb

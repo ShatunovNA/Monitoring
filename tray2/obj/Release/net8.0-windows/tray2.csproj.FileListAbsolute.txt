@@ -1,0 +1,17 @@
+C:\Users\ShatunovNA\Documents\GitHub\Monitoring\tray2\bin\Release\net8.0-windows\tray2.exe
+C:\Users\ShatunovNA\Documents\GitHub\Monitoring\tray2\bin\Release\net8.0-windows\tray2.deps.json
+C:\Users\ShatunovNA\Documents\GitHub\Monitoring\tray2\bin\Release\net8.0-windows\tray2.runtimeconfig.json
+C:\Users\ShatunovNA\Documents\GitHub\Monitoring\tray2\bin\Release\net8.0-windows\tray2.dll
+C:\Users\ShatunovNA\Documents\GitHub\Monitoring\tray2\bin\Release\net8.0-windows\tray2.pdb
+C:\Users\ShatunovNA\Documents\GitHub\Monitoring\tray2\obj\Release\net8.0-windows\tray2.Form1.resources
+C:\Users\ShatunovNA\Documents\GitHub\Monitoring\tray2\obj\Release\net8.0-windows\tray2.csproj.GenerateResource.cache
+C:\Users\ShatunovNA\Documents\GitHub\Monitoring\tray2\obj\Release\net8.0-windows\tray2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShatunovNA\Documents\GitHub\Monitoring\tray2\obj\Release\net8.0-windows\tray2.AssemblyInfoInputs.cache
+C:\Users\ShatunovNA\Documents\GitHub\Monitoring\tray2\obj\Release\net8.0-windows\tray2.AssemblyInfo.cs
+C:\Users\ShatunovNA\Documents\GitHub\Monitoring\tray2\obj\Release\net8.0-windows\tray2.csproj.CoreCompileInputs.cache
+C:\Users\ShatunovNA\Documents\GitHub\Monitoring\tray2\obj\Release\net8.0-windows\tray2.sourcelink.json
+C:\Users\ShatunovNA\Documents\GitHub\Monitoring\tray2\obj\Release\net8.0-windows\tray2.dll
+C:\Users\ShatunovNA\Documents\GitHub\Monitoring\tray2\obj\Release\net8.0-windows\refint\tray2.dll
+C:\Users\ShatunovNA\Documents\GitHub\Monitoring\tray2\obj\Release\net8.0-windows\tray2.pdb
+C:\Users\ShatunovNA\Documents\GitHub\Monitoring\tray2\obj\Release\net8.0-windows\tray2.genruntimeconfig.cache
+C:\Users\ShatunovNA\Documents\GitHub\Monitoring\tray2\obj\Release\net8.0-windows\ref\tray2.dll

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ShatunovNA\\source\\repos\\tray2\\tray2.csproj",
+      "projectUniqueName": "C:\\Users\\ShatunovNA\\Documents\\GitHub\\Monitoring\\tray2\\tray2.csproj",
       "projectName": "tray2",
-      "projectPath": "C:\\Users\\ShatunovNA\\source\\repos\\tray2\\tray2.csproj",
+      "projectPath": "C:\\Users\\ShatunovNA\\Documents\\GitHub\\Monitoring\\tray2\\tray2.csproj",
       "packagesPath": "C:\\Users\\ShatunovNA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ShatunovNA\\source\\repos\\tray2\\obj\\",
+      "outputPath": "C:\\Users\\ShatunovNA\\Documents\\GitHub\\Monitoring\\tray2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
